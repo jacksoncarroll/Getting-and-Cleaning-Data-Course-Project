@@ -32,8 +32,7 @@ The set of variables that were estimated from these signals are:
   std(): Standard deviation
   meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
-
-The following are the 81  variables in the output tidied dataset:
+The following are the 81 variables in the output tidied dataset:
 
 1. subject : The id of the activity being performed
 2. Activity_Label : The activity being performed
